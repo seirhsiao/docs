@@ -1,2 +1,2 @@
-# pythondoc
-pythondoc.com 源码，个人使用
+# docs
+## http://docs.seirhsiao.com 开发文档收集
