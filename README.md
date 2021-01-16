@@ -1,2 +1,2 @@
 # docs
-## http://docs.seirhsiao.com 开发文档收集
+## http://docs.hsiao.xyz 开发文档收集
